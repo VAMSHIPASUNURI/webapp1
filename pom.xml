@@ -10,7 +10,7 @@
 
 	<properties>
 
-		<sonar.host.url>http://http://3.80.63.183:9000/</sonar.host.url>
+		<sonar.host.url>http://http://http://18.208.247.255:9000//</sonar.host.url>
 
 	</properties>
 
