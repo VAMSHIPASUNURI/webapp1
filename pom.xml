@@ -10,7 +10,7 @@
 
 	<properties>
 
-		<sonar.host.url>http://18.208.247.255:9000/</sonar.host.url>
+		<sonar.host.url>http://18.234.210.141:9000/</sonar.host.url>
 
 	</properties>
 
@@ -18,12 +18,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://54.236.16.181:8081/repository/batch12-snapshots/</url>
+		    <url>http://3.90.184.148:8081/repository/vamshi_nexus/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://54.236.16.181:8081/repository/batch12-release/</url>
+		    <url>http://3.90.184.148:8081/repository/vamshi_nexus/</url>
 		</repository>
   	</distributionManagement>
 	
